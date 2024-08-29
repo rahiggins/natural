@@ -10,6 +10,8 @@
 
 "Natural" is a general natural language facility for nodejs. It offers a broad range of functionalities for natural language processing. Documentation can be found [here on GitHub Pages](https://naturalnode.github.io/natural/).
 
+This fork of "Natural" modifies the Brill's POS Tagger to add a language Recipe (RE) wherein foodstuff words are tagged as "FF".
+
 
 ## Open source licenses
 
