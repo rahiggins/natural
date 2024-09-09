@@ -2100,7 +2100,7 @@
         "NNP"
     ], 
     "shoots": [
-        "FF",
+        "UOM",
         "VBZ", 
         "NNS"
     ], 
@@ -10065,7 +10065,7 @@
         "JJ"
     ], 
     "sprig": [
-        "FF",
+        "UOM",
         "NN"
     ], 
     "Pernod": [
@@ -10648,6 +10648,7 @@
         "NNP"
     ], 
     "handful": [
+        "UOM",
         "NN"
     ], 
     "A310-300s": [
@@ -13852,7 +13853,7 @@
         "NNP"
     ], 
     "bulb": [
-        "FF",
+       "UOM",
         "NN"
     ], 
     "pipsqueak": [
@@ -30397,7 +30398,7 @@
         "NN"
     ], 
     "bulbs": [
-        "FF",
+        "UOM",
         "NNS"
     ], 
     "Sienkiewicz": [
@@ -38891,6 +38892,7 @@
         "NN"
     ], 
     "pinches": [
+        "UOM",
         "NNS"
     ], 
     "brokerage": [
@@ -39613,6 +39615,7 @@
         "NNP"
     ], 
     "teaspoons": [
+        "UOM",
         "NNS"
     ], 
     "wrenched": [
@@ -46581,6 +46584,7 @@
         "NN"
     ], 
     "gallons": [
+        "UOM",
         "NNS"
     ], 
     "Astronaut": [
@@ -49313,6 +49317,7 @@
         "VBN"
     ], 
     "quart": [
+        "UOM",
         "NN"
     ], 
     "Stand": [
@@ -49427,6 +49432,7 @@
         "NN"
     ], 
     "sheet": [
+        "UOM",
         "NN"
     ], 
     "jugs": [
@@ -54981,6 +54987,7 @@
         "VBN"
     ], 
     "tablespoons": [
+        "UOM",
         "NNS"
     ], 
     "pinging": [
@@ -57495,7 +57502,7 @@
         "NN"
     ], 
     "sticks": [
-        "FF",
+        "UOM",
         "NNS", 
         "VBZ"
     ], 
@@ -58121,6 +58128,7 @@
         "NN"
     ], 
     "pint": [
+        "UOM",
         "NN"
     ], 
     "spy-plane": [
@@ -70290,6 +70298,7 @@
         "RB"
     ], 
     "grams": [
+        "UOM",
         "NNS"
     ], 
     "time-hotels": [
@@ -99119,6 +99128,7 @@
         "NNS"
     ], 
     "ounce": [
+        "UOM",
         "NN"
     ], 
     "extensions": [
@@ -102549,7 +102559,12 @@
         "NN"
     ], 
     "wedge": [
-        "FF",
+        "UOM",
+        "NN", 
+        "VB"
+    ], 
+    "wedges": [
+        "UOM",
         "NN", 
         "VB"
     ], 
@@ -105417,7 +105432,7 @@
         "VBN"
     ], 
     "pod": [
-        "FF",
+        "UOM",
         "NN"
     ], 
     "hunches": [
@@ -110950,7 +110965,7 @@
         "NN"
     ], 
     "cloves": [
-        "FF",
+        "UOM",
         "NNS"
     ], 
     "shirtsleeve": [
@@ -117933,6 +117948,7 @@
         "JJ"
     ], 
     "medallions": [
+        "FF",
         "NNS"
     ], 
     "price-driven": [
@@ -131311,6 +131327,7 @@
         "NNP"
     ], 
     "sheets": [
+        "UOM",
         "NNS"
     ], 
     "money-handling": [
@@ -135085,6 +135102,7 @@
         "NNP"
     ], 
     "cups": [
+        "UOM",
         "NNS"
     ], 
     "ivory-tower": [
@@ -136458,6 +136476,7 @@
         "NN"
     ], 
     "tablespoon": [
+        "UOM",
         "NN"
     ], 
     "Mullendore": [
@@ -139508,6 +139527,7 @@
         "JJ"
     ], 
     "pound": [
+        "UOM",
         "NN", 
         "VB", 
         "VBP"
@@ -143151,6 +143171,7 @@
         "NNS"
     ], 
     "pints": [
+        "UOM",
         "NNS"
     ], 
     "sinkhole": [
@@ -144282,7 +144303,7 @@
         "NN"
     ], 
     "stick": [
-        "FF",
+        "UOM",
         "VB", 
         "VBP", 
         "NN"
@@ -164797,6 +164818,7 @@
         "JJ"
     ], 
     "handfuls": [
+        "UOM",
         "NNS"
     ], 
     "enterprisingly": [
@@ -173277,6 +173299,7 @@
         "NN"
     ], 
     "cup": [
+        "UOM",
         "NN", 
         "VB"
     ], 
@@ -190248,6 +190271,7 @@
         "VB"
     ], 
     "gallon": [
+        "UOM",
         "NN"
     ], 
     "Mutsch": [
@@ -192981,6 +193005,7 @@
         "NNP"
     ], 
     "bunches": [
+        "UOM",
         "NNS"
     ], 
     "money-saving": [
@@ -194330,6 +194355,7 @@
         "JJ"
     ], 
     "quarts": [
+        "UOM",
         "NNS"
     ], 
     "Covent": [
@@ -198267,7 +198293,7 @@
         "NNP"
     ], 
     "stems": [
-        "FF",
+        "UOM",
         "VBZ", 
         "NNS"
     ], 
@@ -198598,6 +198624,7 @@
         "NN"
     ], 
     "pounds": [
+        "UOM",
         "NNS", 
         "VBZ"
     ], 
@@ -205861,6 +205888,7 @@
         "NN"
     ], 
     "dollops": [
+        "UOM",
         "NNS"
     ], 
     "occupancies": [
@@ -210866,7 +210894,7 @@
         "NNP"
     ], 
     "stalks": [
-        "FF",
+        "UOM",
         "NNS", 
         "VBZ"
     ], 
@@ -211218,6 +211246,7 @@
         "NN"
     ], 
     "bunch": [
+        "UOM",
         "NN"
     ], 
     "industries": [
@@ -217746,6 +217775,7 @@
         "NNP"
     ], 
     "gram": [
+        "UOM",
         "NN"
     ], 
     "amours": [
@@ -222269,7 +222299,7 @@
         "NN"
     ], 
     "pods": [
-        "FF",
+       "UOM",
         "NNS"
     ], 
     "Kensetsu": [
@@ -231397,6 +231427,7 @@
         "VBD"
     ], 
     "pinch": [
+        "UOM",
         "NN", 
         "VB"
     ], 
@@ -235377,6 +235408,7 @@
         "NNP"
     ], 
     "ounces": [
+        "UOM",
         "NNS", 
         "NN"
     ], 
@@ -240731,6 +240763,7 @@
         "JJ"
     ], 
     "teaspoon": [
+        "UOM",
         "NN"
     ], 
     "Apache": [
@@ -267114,6 +267147,7 @@
         "NNS"
     ], 
     "pieces": [
+        "UOM",
         "NNS"
     ], 
     "Dodson": [
@@ -278544,6 +278578,7 @@
         "NNP"
     ], 
     "piece": [
+        "UOM",
         "NN", 
         "FW", 
         "VB"
@@ -285050,7 +285085,7 @@
         "VBZ"
     ], 
     "cubes": [
-        "FF",
+        "UOM",
         "NNS"
     ], 
     "health-benefits": [
@@ -294371,6 +294406,7 @@
         "VB"
     ], 
     "stalk": [
+        "UOM",
         "VBP"
     ], 
     "consumer-finance": [
@@ -297034,7 +297070,7 @@
         "NNP"
     ], 
     "clove": [
-        "FF",
+        "UOM",
         "NN"
     ], 
     "excusable": [
@@ -299123,7 +299159,7 @@
         "FF"
     ], 
     "sprigs": [
-        "FF"
+        "UOM"
     ], 
     "basmati": [
         "FF"
@@ -299540,6 +299576,9 @@
         "FF"
     ], 
     "chayote": [
+        "FF"
+    ], 
+    "chayotes": [
         "FF"
     ], 
     "tortellini": [
