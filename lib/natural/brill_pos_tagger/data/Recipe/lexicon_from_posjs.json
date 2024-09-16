@@ -19500,6 +19500,7 @@
         "VB"
     ], 
     "Curacao": [
+        "FF",
         "NNP"
     ], 
     "rattle": [
@@ -110965,7 +110966,7 @@
         "NN"
     ], 
     "cloves": [
-        "UOM",
+        "FF",
         "NNS"
     ], 
     "shirtsleeve": [
@@ -159483,10 +159484,11 @@
         "VB", 
         "VBP", 
         "NN"
-    ], 
+    ],
     "cognac": [
+        "FF",
         "NN"
-    ], 
+    ],
     "joss": [
         "NN"
     ], 
@@ -278952,6 +278954,7 @@
         "JJ"
     ], 
     "pancakes": [
+        "FF",
         "NNS"
     ], 
     "military-spending": [
@@ -298641,7 +298644,7 @@
     ], 
     "Parmigiano-Reggiano": [
         "FF"
-    ], 
+    ],
     "pomegranate": [
         "FF"
     ], 
@@ -301340,6 +301343,33 @@
         "FF"
     ], 
     "bouillon": [
-        "Ff"
+        "FF"
+    ], 
+    "parmigiano-reggiano": [
+        "FF"
+    ], 
+    "pectin": [
+        "FF"
+    ], 
+    "bean-paste": [
+        "FF"
+    ], 
+    "marzipan": [
+        "FF"
+    ],
+    "star-anise": [
+        "FF"
+    ],
+    "parmigiano-Reggiano": [
+        "FF"
+    ],
+    "tabasco": [
+        "FF"
+    ],
+    "gjetost": [
+        "FF"
+    ],
+    "kanten": [
+        "FF"
     ]
 }
