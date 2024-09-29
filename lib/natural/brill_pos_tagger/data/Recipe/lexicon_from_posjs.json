@@ -93406,6 +93406,7 @@
         "NNP"
     ], 
     "Coca-Cola": [
+        "FF",
         "NNP"
     ], 
     "long-planned": [
@@ -301370,6 +301371,9 @@
         "FF"
     ],
     "kanten": [
+        "FF"
+    ],
+    "limonata": [
         "FF"
     ]
 }
