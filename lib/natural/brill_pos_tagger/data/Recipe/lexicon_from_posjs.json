@@ -5098,9 +5098,7 @@
         "VBN"
     ], 
     "grope": [
-        "FF",
-        "VB", 
-        "VBP"
+        "FF"
     ], 
     "scramble": [
         "NN", 
@@ -11576,8 +11574,7 @@
     ], 
     "gum": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Butterfield": [
         "NNP"
@@ -11675,8 +11672,7 @@
         "NNP"
     ], 
     "peels": [
-        "FF",
-        "VBZ"
+        "FF"
     ], 
     "Yoshida": [
         "NNP"
@@ -18957,9 +18953,7 @@
     ], 
     "root": [
         "FF",
-        "NN", 
-        "VBP", 
-        "VB"
+        "NN"
     ], 
     "troubles": [
         "NNS", 
@@ -23223,8 +23217,7 @@
         "NNP"
     ], 
     "puffs": [
-        "FF",
-        "VBZ"
+        "FF"
     ], 
     "Hazlitt": [
         "NNP"
@@ -28049,7 +28042,6 @@
     ], 
     "leaves": [
         "FF",
-        "VBZ", 
         "JJ", 
         "NNS"
     ], 
@@ -37405,8 +37397,7 @@
     ], 
     "wing": [
         "FF",
-        "NN", 
-        "VBP"
+        "NN"
     ], 
     "wind": [
         "NN", 
@@ -39700,9 +39691,7 @@
     ], 
     "date": [
         "FF",
-        "NN", 
-        "VBP", 
-        "VB"
+        "NN"
     ], 
     "Become": [
         "VB"
@@ -41047,8 +41036,7 @@
     ], 
     "clam": [
         "FF",
-        "NN", 
-        "VBP"
+        "NN"
     ], 
     "clad": [
         "VBN", 
@@ -41640,7 +41628,6 @@
     "dressing": [
         "FF",
         "NN", 
-        "VBG", 
         "JJ"
     ], 
     "Precious": [
@@ -48787,9 +48774,7 @@
     ], 
     "jam": [
         "FF",
-        "NN", 
-        "VB", 
-        "VBP"
+        "NN"
     ], 
     "Tammy": [
         "NNP"
@@ -59122,7 +59107,6 @@
     ], 
     "shortening": [
         "FF",
-        "VBG", 
         "NN"
     ], 
     "self-regulator": [
@@ -65110,8 +65094,7 @@
     ], 
     "chuck": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Sting": [
         "NNP"
@@ -65121,7 +65104,6 @@
     ], 
     "filling": [
         "FF",
-        "VBG", 
         "NN"
     ], 
     "yakking": [
@@ -77542,8 +77524,6 @@
     ], 
     "concentrate": [
         "FF",
-        "VB", 
-        "VBP", 
         "NN"
     ], 
     "Tjokorda": [
@@ -86079,7 +86059,6 @@
     ], 
     "carp": [
         "FF",
-        "VBP", 
         "NN"
     ], 
     "punks": [
@@ -86893,9 +86872,7 @@
         "NN"
     ], 
     "smelt": [
-        "FF",
-        "VBD", 
-        "VBN"
+        "FF"
     ], 
     "alligators": [
         "NNS"
@@ -88350,7 +88327,6 @@
     ], 
     "blossom": [
         "FF",
-        "VB", 
         "JJ", 
         "NN"
     ], 
@@ -105741,8 +105717,6 @@
     ], 
     "rose": [
         "FF",
-        "VBD", 
-        "VBP", 
         "JJ", 
         "NN"
     ], 
@@ -108578,8 +108552,7 @@
     "mustard": [
         "FF",
         "NN", 
-        "JJ", 
-        "VB"
+        "JJ"
     ], 
     "Metro": [
         "NNP", 
@@ -113229,8 +113202,7 @@
     ], 
     "perch": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Riney": [
         "NNP"
@@ -117039,8 +117011,7 @@
     ], 
     "ducks": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "all-automatic": [
         "JJ"
@@ -117722,8 +117693,7 @@
     ], 
     "scotch": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "age": [
         "NN", 
@@ -123995,8 +123965,7 @@
     ], 
     "ramp": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Cleave": [
         "NNP"
@@ -132118,8 +132087,7 @@
     ], 
     "soup": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "sour": [
         "JJ", 
@@ -137841,8 +137809,7 @@
     ], 
     "bean": [
         "FF", 
-        "NN", 
-        "VBN", 
+        "NN",
         "JJ"
     ], 
     "pre-split": [
@@ -139155,8 +139122,7 @@
     ], 
     "ramps": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "Scandinavian": [
         "NNP", 
@@ -139507,9 +139473,7 @@
         "NNP"
     ], 
     "sprout": [
-        "FF",
-        "VBP", 
-        "VB"
+        "FF"
     ], 
     "over": [
         "IN", 
@@ -141080,7 +141044,6 @@
     ], 
     "curry": [
         "FF",
-        "VB", 
         "NN"
     ], 
     "Best": [
@@ -141685,8 +141648,7 @@
     ], 
     "water": [
         "FF",
-        "NN", 
-        "VB", 
+        "NN",
         "JJ"
     ], 
     "attainment": [
@@ -145290,8 +145252,7 @@
     ], 
     "bark": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Cluff": [
         "NNP"
@@ -146801,9 +146762,7 @@
     ], 
     "rape": [
         "FF",
-        "NN", 
-        "VB", 
-        "VBP"
+        "NN"
     ], 
     "Cutbacks": [
         "NNP"
@@ -150736,8 +150695,7 @@
     "fish": [
         "FF",
         "NN", 
-        "RB", 
-        "VB", 
+        "RB",
         "NNS"
     ], 
     "binder": [
@@ -157152,7 +157110,6 @@
     ], 
     "stuffing": [
         "FF",
-        "VBG", 
         "NN"
     ], 
     "Likening": [
@@ -169229,8 +169186,7 @@
         "FF",
         "NN", 
         "IN", 
-        "JJ", 
-        "VBP", 
+        "JJ",
         "RB"
     ], 
     "Ribes": [
@@ -171515,7 +171471,6 @@
     ], 
     "preserves": [
         "FF",
-        "VBZ", 
         "NNS"
     ], 
     "Byzantine": [
@@ -175795,8 +175750,7 @@
     ], 
     "knuckles": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "PROSECUTIONS": [
         "NNS"
@@ -177275,8 +177229,7 @@
     ], 
     "knuckle": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Racketeering": [
         "NNP"
@@ -187003,8 +186956,7 @@
     ], 
     "tops": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "hackneyed": [
         "JJ"
@@ -187501,8 +187453,7 @@
     ], 
     "palm": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Enrique": [
         "NNP"
@@ -188045,8 +187996,7 @@
     ], 
     "honey": [
         "FF",
-        "NN", 
-        "VB", 
+        "NN",
         "UH", 
         "JJ"
     ], 
@@ -194315,9 +194265,7 @@
     ], 
     "mushroom": [
         "FF",
-        "NN", 
-        "VBP", 
-        "VB"
+        "NN"
     ], 
     "Whitehall": [
         "NNP", 
@@ -196255,8 +196203,7 @@
     ], 
     "caps": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "first-person": [
         "NN"
@@ -202556,8 +202503,7 @@
         "NNP"
     ], 
     "sprinkles": [
-        "FF",
-        "VBZ"
+        "FF"
     ], 
     "sprinkler": [
         "NN"
@@ -205643,8 +205589,7 @@
         "NN"
     ], 
     "flounder": [
-        "FF",
-        "VB"
+        "FF"
     ], 
     "beget": [
         "VB", 
@@ -207516,8 +207461,7 @@
     ], 
     "dates": [
         "FF",
-        "NNS", 
-        "VBZ"
+        "NNS"
     ], 
     "parentheses": [
         "NNS"
@@ -208396,8 +208340,7 @@
     ], 
     "brandy": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Biosciences": [
         "NNP"
@@ -214412,8 +214355,7 @@
     ], 
     "duck": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Caribbean": [
         "NNP", 
@@ -214673,9 +214615,7 @@
     ], 
     "beef": [
         "FF",
-        "NN", 
-        "VB", 
-        "VBP"
+        "NN"
     ], 
     "open-mouthed": [
         "JJ"
@@ -223510,8 +223450,7 @@
     ], 
     "relish": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "societies": [
         "NNS"
@@ -229259,9 +229198,7 @@
     ], 
     "punch": [
         "FF",
-        "NN", 
-        "VBP", 
-        "VB"
+        "NN"
     ], 
     "puckish": [
         "JJ"
@@ -230748,8 +230685,7 @@
     ], 
     "flesh": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Retiring": [
         "VBG"
@@ -233952,8 +233888,7 @@
     "heart": [
         "FF",
         "NN", 
-        "RB", 
-        "VB"
+        "RB"
     ], 
     "hears": [
         "VBZ"
@@ -242590,10 +242525,8 @@
     ], 
     "shoulder": [
         "FF",
-        "NN", 
-        "VBP", 
-        "RB", 
-        "VB"
+        "NN",
+        "RB"
     ], 
     "dignity": [
         "NN"
@@ -244001,9 +243934,7 @@
     "butt": [
         "FF",
         "NN", 
-        "CC", 
-        "VBP", 
-        "VB"
+        "CC"
     ], 
     "ceramics": [
         "NNS"
