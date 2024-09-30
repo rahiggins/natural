@@ -196159,15 +196159,7 @@
         "NN"
     ], 
     "the": [
-        "DT", 
-        "VBD", 
-        "VBP", 
-        "NN|DT", 
-        "IN", 
-        "JJ", 
-        "NN", 
-        "NNP", 
-        "PDT"
+        "DT"
     ], 
     "cataract": [
         "NN"
@@ -272500,8 +272492,7 @@
         "RB", 
         "RP", 
         "UH", 
-        "WP", 
-        "VBP", 
+        "WP",
         "WDT"
     ], 
     "inmates": [
@@ -295827,8 +295818,7 @@
         "NNP"
     ], 
     "we": [
-        "PRP", 
-        "VBP"
+        "PRP"
     ], 
     "Kanan": [
         "NNP"
