@@ -2565,8 +2565,7 @@
     ], 
     "Me": [
         "PRP", 
-        "NNP", 
-        "VBP"
+        "NNP"
     ], 
     "Md": [
         "NNP"
@@ -27342,9 +27341,7 @@
     "like": [
         "IN", 
         "JJ", 
-        "NN", 
-        "VB", 
-        "VBP"
+        "NN"
     ], 
     "minicomputer": [
         "NN"
@@ -35775,8 +35772,7 @@
         "NNP"
     ], 
     "he": [
-        "PRP", 
-        "VB"
+        "PRP"
     ], 
     "widegrip": [
         "JJ"
@@ -41435,7 +41431,6 @@
     ], 
     "at": [
         "IN", 
-        "VBD", 
         "RB", 
         "RP"
     ], 
@@ -56901,8 +56896,7 @@
         "IN|RP", 
         "NNP", 
         "RP|IN", 
-        "RBR", 
-        "VBD"
+        "RBR"
     ], 
     "textiles": [
         "NNS"
@@ -80577,7 +80571,6 @@
         "IN|RB", 
         "RB", 
         "RP", 
-        "VB", 
         "NNP", 
         ",", 
         "RBR"
@@ -126330,8 +126323,7 @@
         "IN", 
         "JJ", 
         "NN", 
-        "RB", 
-        "VB"
+        "RB"
     ], 
     "Valvoline": [
         "NNP"
@@ -153636,8 +153628,7 @@
         "VBD"
     ], 
     "past": [
-        "JJ", 
-        "VBN", 
+        "JJ",
         "IN", 
         "NN", 
         "RB"
@@ -169240,8 +169231,7 @@
         "IN", 
         "JJ", 
         "VBP", 
-        "RB", 
-        "VB"
+        "RB"
     ], 
     "Ribes": [
         "NNP"
@@ -255942,8 +255932,7 @@
         "NN"
     ], 
     "you": [
-        "PRP", 
-        "VBP", 
+        "PRP",
         "RP"
     ], 
     "Garret": [
