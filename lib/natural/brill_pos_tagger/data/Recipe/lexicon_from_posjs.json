@@ -249728,8 +249728,7 @@
     ], 
     "pepper": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Prepulsid": [
         "NN"
@@ -262498,8 +262497,7 @@
     ], 
     "ketchup": [
         "FF",
-        "NN", 
-        "VB|IN"
+        "NN"
     ], 
     "smarted": [
         "VBD"
@@ -266905,8 +266903,7 @@
     ], 
     "sugar": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "tools": [
         "NNS", 
@@ -272945,7 +272942,6 @@
     ], 
     "file": [
         "FF",
-        "VB", 
         "NN", 
         "VBP"
     ], 
@@ -281104,8 +281100,7 @@
     ], 
     "milk": [
         "FF",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "microprocessor": [
         "NN"
@@ -286437,8 +286432,7 @@
     ], 
     "stock": [
         "FF",
-        "NN", 
-        "VBP", 
+        "NN",
         "JJ", 
         "VB"
     ], 
