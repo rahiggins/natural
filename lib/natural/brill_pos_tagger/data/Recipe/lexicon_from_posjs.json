@@ -114316,7 +114316,8 @@
     "salt": [
         "FF",
         "NN", 
-        "JJ"
+        "JJ",
+        "VB"
     ], 
     "mega-resorts": [
         "NNS"
@@ -170705,8 +170706,7 @@
         "JJ", 
         "DT", 
         "NN", 
-        "RB", 
-        "VB", 
+        "RB",
         "NNS", 
         "PDT"
     ], 
