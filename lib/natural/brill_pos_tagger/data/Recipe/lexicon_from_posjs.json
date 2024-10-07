@@ -135398,8 +135398,7 @@
     "fine": [
         "JJ", 
         "NN", 
-        "RB", 
-        "VB"
+        "RB"
     ], 
     "find": [
         "VB", 
@@ -194895,8 +194894,7 @@
     ], 
     "green": [
         "JJ", 
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "over-achievement": [
         "NN"
