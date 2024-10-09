@@ -42921,9 +42921,7 @@
         "NN"
     ], 
     "sea": [
-        "NN", 
-        "VB", 
-        "VBP"
+        "NN"
     ], 
     "Stedt": [
         "NNP"
@@ -111368,8 +111366,7 @@
         "JJ", 
         "LS", 
         "NN", 
-        "NNPS", 
-        "VB"
+        "NNPS"
     ], 
     "renounced": [
         "VBD"
@@ -125168,8 +125165,7 @@
         "VBG"
     ], 
     "a": [
-        "DT", 
-        "VB", 
+        "DT",
         ",", 
         "VBN", 
         "NNP", 
