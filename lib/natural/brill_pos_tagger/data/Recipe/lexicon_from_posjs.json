@@ -12117,8 +12117,7 @@
     "still": [
         "RB", 
         "JJ", 
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "Mandela": [
         "NNP"
@@ -129486,8 +129485,7 @@
     ], 
     "even": [
         "RB", 
-        "JJ", 
-        "VB", 
+        "JJ",
         "RB|JJ"
     ], 
     "betraying": [
@@ -231344,8 +231342,7 @@
     ], 
     "pinch": [
         "UOM",
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "inter-relationships": [
         "NNS"
@@ -283685,8 +283682,7 @@
         "RB|RBR", 
         "JJR", 
         "RBR", 
-        "RB", 
-        "VB"
+        "RB"
     ], 
     "Salhany": [
         "NNP"
@@ -301274,6 +301270,9 @@
         "FF"
     ],
     "limonata": [
+        "FF"
+    ],
+    "gouda": [
         "FF"
     ]
 }
