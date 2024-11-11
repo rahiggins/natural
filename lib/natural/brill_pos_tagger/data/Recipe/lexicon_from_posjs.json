@@ -207229,8 +207229,7 @@
     ], 
     "black": [
         "JJ", 
-        "NN", 
-        "VB"
+        "NN"
     ], 
     "fundamantalist": [
         "NN"
@@ -301273,6 +301272,9 @@
         "FF"
     ],
     "gouda": [
+        "FF"
+    ],
+    "Pimm's": [
         "FF"
     ]
 }
